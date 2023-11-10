@@ -5,15 +5,15 @@
 }
 
 .container {
-    max-width: 1140px;
-    padding: 0 15px;
+    max-width: 1140 px;
+    padding: 0 15 px;
     margin: 0 auto;
 }
 
 .header {
-    width: 100%;
+    width: 100 %;
     color: white;
-    padding: 20px;
+    padding: 20 px;
     background: #151c39e8;
     box-sizing: border-box;
 }
@@ -29,14 +29,14 @@
 }
 
 .banner-section {
-    padding: 100px 0;
+    padding: 100 px 0;
     background: url("images/banner-bg.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .banner-title {
-    font-size: 50px;
+    font-size: 50 px;
     color: white;
     text-align: center;
 }
@@ -47,14 +47,13 @@
 }
 
 .cards-section {
-    padding: 50px 0px;
+    padding: 50 px 0 px;
 }
 
 /* .cards {
     display: inline-block;
     width: 80px;
     margin: 0px 100px;
-
 } */
 
 .cards-title, .cards-description {
@@ -65,7 +64,7 @@
 .card {
     padding: 25 px;
     margin-top: 25 px;
-    width: 25%;
+    width: 25 %;
     background: white;
     box-shadow: 0 px 2 px 7 px 0 px #9e90ff;
     text-align: center;
